@@ -1,2 +1,2 @@
-print ("Hello world");
-print ("PRINT");
+print ("Hello world;");
+print ("PRINT;");
